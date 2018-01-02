@@ -45,7 +45,7 @@ namespace KMOsoft_Android_Tablet
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int layout1 = 2130837504;
+			public const int MainScreenBtn = 2130837504;
 			
 			static Drawable()
 			{
