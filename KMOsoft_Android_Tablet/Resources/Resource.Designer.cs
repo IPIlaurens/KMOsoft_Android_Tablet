@@ -64,7 +64,7 @@ namespace KMOsoft_Android_Tablet
 			public const int LeveringenPageTitle = 2131034112;
 			
 			// aapt resource value: 0x7f050001
-			public const int button1 = 2131034113;
+			public const int getLeveringen = 2131034113;
 			
 			// aapt resource value: 0x7f050002
 			public const int leveringenBtn = 2131034114;

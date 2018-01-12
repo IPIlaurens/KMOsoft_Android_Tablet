@@ -10,6 +10,8 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
+using SQLite;
+
 namespace KMOsoft_Android_Tablet
 {
     [Activity(Label = "leveringActivity")]
@@ -21,6 +23,7 @@ namespace KMOsoft_Android_Tablet
 
             // Create your application here
             SetContentView(Resource.Layout.LeveringOverzicht);
+            
         }
     }
 
